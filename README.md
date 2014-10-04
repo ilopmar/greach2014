@@ -1,6 +1,6 @@
 # Greach 2014
 
-These are the examples of my talk [Programming with Groovy](http://greach.es/speakers/ivan-lopez-metaprogramming-with-groovy/) from [Greach](http://greach.es) 2014. The slides of the talk are available at [slideshare](http://www.slideshare.net/ilopmar/metaprogramming-with-groovy).
+These are the examples of my talk [Metaprogramming with Groovy](http://greach.es/speakers/ivan-lopez-metaprogramming-with-groovy/) from [Greach](http://greach.es) 2014. The slides of the talk are available at [slideshare](http://www.slideshare.net/ilopmar/metaprogramming-with-groovy).
 
 The repository contains the following directories. The directories are sorted chronological as shown in the talk and the link points to the first slide of each group of examples:
 
